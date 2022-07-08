@@ -1,0 +1,5 @@
+[
+  { "id": "id-1", "text": "lern react", "completed": false },
+  { "id": "id-2", "text": "lern js", "completed": false },
+  { "id": "id-3", "text": "lern css", "completed": false }
+]
